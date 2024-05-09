@@ -1,4 +1,4 @@
-# NeaPolis Innvoation Summer Campus 2020 Examples
+# NeaPolis Innvoation Summer Campus 2021 Examples
 Examples made for ChibiOS/RT + HAL during the NeaPolis Innovation Summer Campus 2020.
 
 These examples have been tested on ChibiStudio 2020-04 for Windows. You can download
